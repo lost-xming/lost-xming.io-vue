@@ -21,21 +21,21 @@
                             </div>
                             <nav class="site-state motion-element">
                                 <div class="site-state-item site-state-posts">
-                                    <a href="/archives/">
-                                        <span class="site-state-item-count">27</span>
+                                    <a href="/archives/index.html">
+                                        <span class="site-state-item-count">1</span>
                                         <span class="site-state-item-name">日志</span>
                                     </a>
                                 </div>
                                 <div class="site-state-item site-state-categories">
                                     <a href="/categories/index.html">
-                                        <span class="site-state-item-count">13</span>
+                                        <span class="site-state-item-count">8</span>
                                         <span class="site-state-item-name">分类</span>
                                     </a>
                                 </div>
                                 <div class="site-state-item site-state-tags">
-                                    <a href="/tags/index.html">
-                                        <span class="site-state-item-count">19</span>
-                                        <span class="site-state-item-name">标签</span>
+                                    <a href="/#/demo/">
+                                        <span class="site-state-item-count">4</span>
+                                        <span class="site-state-item-name">案例</span>
                                     </a>
                                 </div>
                             </nav>
@@ -53,7 +53,7 @@
                                     </a>
                                 </span>
                                 <span class="links-of-author-item">
-                                    <a href="asln_lz@126.com" target="_blank" title="E-Mail">
+                                    <a href="mailto:asln_lz@126.com" target="_blank" title="E-Mail">
                                         <i class="fa fa-fw fa-envelope"></i>
                                         E-Mail
                                     </a>

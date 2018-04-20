@@ -1519,7 +1519,7 @@ pre .javascript .function {
 
 @media (min-width: 992px) {
     .posts-expand .post-body {
-        text-align: justify;
+        text-align: center;
     }
 }
 

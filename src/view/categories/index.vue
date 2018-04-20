@@ -19,6 +19,10 @@
                         <span class="category-list-count">1</span>
                     </li>
                     <li class="category-list-item">
+                        <a class="category-list-link" href="/#/categories/nodeJS/">nodeJS</a>
+                        <span class="category-list-count">1</span>
+                    </li>
+                    <li class="category-list-item">
                         <a class="category-list-link" href="/#/categories/http/">HTTP/HTTPS</a>
                         <span class="category-list-count">1</span>
                     </li>

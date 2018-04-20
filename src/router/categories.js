@@ -2,6 +2,7 @@ const index = () => import(/* webpackChunkName: "index" */ '../view/index');
 const CategoriesIndex = () => import(/* webpackChunkName: "categoriesIndex" */ '../view/categories/index');
 const Css3 = () => import(/* webpackChunkName: "css3" */ '../view/categories/css3');
 const Html5 = () => import(/* webpackChunkName: "html5" */ '../view/categories/html5');
+const NodeJS = () => import(/* webpackChunkName: "nodeJS" */ '../view/categories/nodeJS');
 const Git = () => import(/* webpackChunkName: "git" */ '../view/categories/git');
 const Http = () => import(/* webpackChunkName: "http" */ '../view/categories/http');
 const Javascript = () => import(/* webpackChunkName: "javascript" */ '../view/categories/javascript');
@@ -29,6 +30,11 @@ export default {
             path: '/categories/html5',
             name: 'html5',
             component: Html5
+        },
+        {
+            path: '/categories/nodeJS',
+            name: 'nodeJS',
+            component: NodeJS
         },
         {
             path: '/categories/http',

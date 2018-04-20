@@ -21,19 +21,19 @@
                             </div>
                             <nav class="site-state motion-element">
                                 <div class="site-state-item site-state-posts">
-                                    <a href="/archives/index.html">
+                                    <a href="/#/archives">
                                         <span class="site-state-item-count">1</span>
                                         <span class="site-state-item-name">日志</span>
                                     </a>
                                 </div>
                                 <div class="site-state-item site-state-categories">
-                                    <a href="/categories/index.html">
+                                    <a href="/#/categories/">
                                         <span class="site-state-item-count">8</span>
                                         <span class="site-state-item-name">分类</span>
                                     </a>
                                 </div>
                                 <div class="site-state-item site-state-tags">
-                                    <a href="/#/demo/">
+                                    <a href="/#/demo">
                                         <span class="site-state-item-count">4</span>
                                         <span class="site-state-item-name">案例</span>
                                     </a>

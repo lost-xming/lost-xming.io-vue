@@ -25,6 +25,8 @@ menu,
 nav,
 section,
 summary {
+    margin: 0;
+    padding: 0;
     display: block;
 }
 
